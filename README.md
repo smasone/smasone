@@ -2,7 +2,8 @@
 - Computer Science major
 - Dual concentration in Software Development and Game Design & Programming
 - Games & Emerging Media minor
-- Proficient in Java and Python 
+- Proficient in Java and Python
+- :) 
 
 <!--
 **smasone/smasone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
