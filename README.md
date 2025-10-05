@@ -1,8 +1,8 @@
 ## Sophia Masone ~ Marist Class of 2027
 - Computer Science major
 - Dual concentration in Software Development and Game Design & Programming
-- Games & Emerging Media minor
-- Experienced in Java, Python, SQL, HTML, CSS, and JavaScript
+- Minors in Games & Emerging Media and UX Design
+- Experienced in Java, Python, SQL, C++, HTML, CSS, and JavaScript
 
 <!--
 **smasone/smasone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
